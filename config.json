@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpalidate",
+        "uuid": 9488600,
+        "checksum": "6c1lik"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
